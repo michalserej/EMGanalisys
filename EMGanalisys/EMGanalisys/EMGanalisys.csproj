@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="C3D">
-      <HintPath>..\..\..\..\..\Documents\Visual Studio 2013\Projects\EMGanalisys\C3D.NET-master\C3D\bin\Debug\C3D.dll</HintPath>
+      <HintPath>..\..\C3D.NET-master\C3D\bin\Debug\C3D.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
